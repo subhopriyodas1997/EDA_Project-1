@@ -32,7 +32,7 @@
 - The first step involved cleaning and manipulating the dataset to ensure its accuracy and usability for analysis.
 ## Exploratory Data Analysis (EDA)
 
-- Leveraging the power of pandas, matplotlib, and seaborn libraries, conducted EDA to uncover meaningful patterns and insights within the data.
+- Leveraged the power of pandas, matplotlib, and seaborn libraries, conducted EDA to uncover meaningful patterns and insights within the data.
 ## Identifying Potential Customers
 
 - By analyzing demographic variables such as age, gender, marital status, occupation, and location, potential customer segments were identified.
