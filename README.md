@@ -1,4 +1,3 @@
-
 # EDA project: Optimizing Marketing Strategies through Data Analysis
 
 <> In today's competitive market, understanding consumer behavior is paramount for businesses seeking to optimize their marketing strategies and drive sales growth. 
@@ -56,3 +55,14 @@ Armed with these insights, following actionable steps can be taken to optimize t
 - Inventory Planning: Use insights on popular product categories and items to optimize inventory planning, ensuring adequate stock levels to meet customer demand.
 - Customer Experience Enhancement: Develop personalized offerings and experiences to cater to the preferences of the identified customer segments, enhancing overall customer satisfaction and loyalty.
 - Continuous Analysis: Regularly revisit and update the analysis to adapt to changing market trends and consumer preferences, ensuring ongoing relevance and effectiveness of marketing strategies.
+## Visualizations that supported data-driven decisions
+
+![Screenshot 2024-04-12 220820](https://github.com/subhopriyodas1997/EDA_Project-1/assets/120428930/9b6314e9-3be7-4ef1-af68-4838225c3c5a)
+
+![Screenshot 2024-04-12 220844](https://github.com/subhopriyodas1997/EDA_Project-1/assets/120428930/4db5149c-1e65-496f-8db3-2826a3d51f63)
+
+![Screenshot 2024-04-12 220912](https://github.com/subhopriyodas1997/EDA_Project-1/assets/120428930/9280b65c-8556-4498-9dce-bb39ac43c344)
+
+![Screenshot 2024-04-12 220936](https://github.com/subhopriyodas1997/EDA_Project-1/assets/120428930/6b177c2b-7006-4b60-8b5c-b1b3544907a8)
+
+![Screenshot 2024-04-12 221007](https://github.com/subhopriyodas1997/EDA_Project-1/assets/120428930/ff0f8ee4-8e59-431a-bde8-2eccd0192b35)
